@@ -1,0 +1,84 @@
+{
+    "list": [
+        {
+            "NAME": "Alo",
+            "ADDRESS": "163 Spadina Ave, Toronto",
+            "PHONE": "416-260-2222",
+            "ITEMS": ["Ice Wine"],
+            "OLDPRICES": ["$29.99"], 
+            "NEWPRICES": ["$19.99"],
+            "COUNT": 1,
+            "COORDINATES": [43.648520, -79.395880]
+        },
+        {
+            "NAME": "Miku Toronto",
+            "ADDRESS": "10 Bay St # 105, Toronto",
+            "PHONE": "647-347-7347",
+            "ITEMS": ["Ramen Noodles", "Chicken Broth"],
+            "OLDPRICES": ["$10.99", "$5.99"], 
+            "NEWPRICES": ["4.99", "$2.99"],
+            "COUNT": 2,
+            "COORDINATES": [43.641449, -79.377350]
+        },
+        {
+            "NAME": "Bannock",
+            "ADDRESS": "401 Bay St, Toronto",
+            "PHONE": "416-861-6996",
+            "ITEMS": ["Draft Beer 2L", "Frozen Fries"],
+            "OLDPRICES": ["$10.99", "$4.99"], 
+            "NEWPRICES": ["3.99", "$1.99"],
+            "COUNT": 2,
+            "COORDINATES": [43.651779, -79.381111]
+        },
+        {
+            "NAME": "Seven Lives",
+            "ADDRESS": "69 Kensington Ave, Toronto",
+            "PHONE": "647-278-4929",
+            "ITEMS": ["Red Wine"],
+            "OLDPRICES": ["#20.99"], 
+            "NEWPRICES": ["8.99"],
+            "COUNT": 1,
+            "COORDINATES": [43.654420, -79.400460]
+        },
+        {
+            "NAME": "Drake One Fifty",
+            "ADDRESS": "150 York St, Toronto",
+            "PHONE": "416-363-6150",
+            "ITEMS": ["Assorted Dip", "Fresh Naan"],
+            "OLDPRICES": ["$8.99", "$4.99"], 
+            "NEWPRICES": ["3.99", "$2.99"],
+            "COUNT": 2,
+            "COORDINATES": [43.649690, -79.384600]
+        },
+        {
+            "NAME": "RASA",
+            "ADDRESS": "196 Robert St, Toronto",
+            "PHONE": "647-350-8221",
+            "ITEMS": ["Japanese Soju"],
+            "OLDPRICES": ["$15.99"], 
+            "NEWPRICES": ["$7.99"],
+            "COUNT": 1,
+            "COORDINATES": [43.662860, -79.404120]
+        },
+        {
+            "NAME": "Assembly Chef's Hall",
+            "ADDRESS": "111 Richmond St W, Toronto",
+            "PHONE": "647-557-5993",
+            "ITEMS": ["Frozen Patties", "White Wine", "Red Wine"],
+            "OLDPRICES": ["$9.99", "$18.99", "16.99"], 
+            "NEWPRICES": ["4.99", "$8.99", "7.99"],
+            "COUNT": 3,
+            "COORDINATES": [43.650360, -79.383820]
+        },
+        {
+            "NAME": "Adega Restaurante",
+            "ADDRESS": "33 Elm St, Toronto",
+            "PHONE": "416-977-7293",
+            "ITEMS": ["Assorted Snacks", "Red Wine"],
+            "OLDPRICES": ["$8.99", "16.99"], 
+            "NEWPRICES": ["$4.99", "7.99"],
+            "COUNT": 2,
+            "COORDINATES": [43.657330, -79.383270]
+        }
+    ]
+}

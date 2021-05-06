@@ -1,0 +1,30 @@
+.entire {
+    background-color: #7D94FF !important;
+    z-index: 10000;
+    height: 100%;
+}
+
+.card {
+    width: 18rem;
+    
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.col-md-2 {
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+
+.card .card-body {
+    text-align: center;
+}
+
+h1 {
+    padding-top: 30px;
+}

@@ -1,0 +1,55 @@
+#bg {
+    height: 10%;
+    /* max-height: 70%; */
+    width: 100%;
+    /* max-width: 100; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.home-container {
+    position: relative;
+    color: black;
+}
+
+.home-title {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    font-size: 100px;
+    font-style: bold;
+}
+
+.home-heading {
+    position: absolute;
+    top: 185px;
+    left: 50px;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.home-heading-2 {
+    position: absolute;
+    top: 225px;
+    left: 50px;
+    font-size: 30px;
+    font-style: italic;
+}
+
+div.transbox {
+    border-bottom: 5px solid black;
+    filter: alpha(opacity=60); 
+}
+   
+.img-responsive1 {
+    border-top: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    border-bottom: 3px solid black;
+}
+
+.home-color {
+    background-color: black;
+    color: black;
+}
